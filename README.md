@@ -30,6 +30,3 @@ BobaBliss provides a smooth and responsive user experience for browsing drinks, 
 
 ## Demo live
 
-
-
-## 📂 Project Structure
